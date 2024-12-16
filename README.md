@@ -29,7 +29,7 @@ Ensure that you have Python 3.x or later installed.
 Once the prerequisites are set up, you can run the script with the following command:
 
 ```bash
-python sql_injection_test.py
+python3 WhiteHat_SQL_injection.py or RedHat_SQL_injection.py (WARNING: REDHAT IS A DANGEROUS TOOL, ONLY USE WITH PERMISSION OR ON PERSONAL DEVICES)
 ```
 
 ### 2. Provide User Input:
