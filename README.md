@@ -28,11 +28,13 @@ Ensure that you have Python 3.x or later installed.
 ### 1. Run the Script:
 Once the prerequisites are set up, you can run the script with the following command:
 
+- ** White Hat Ethical Testing:
+
 ```bash
 python3 WhiteHat_SQL_injection.py
 ```
 
-- **WARNING: RedHat_SQL_Injection.py is a very dangerous tool, only use with permission for testing purposes!
+- Red Hat for Pentesting: **WARNING: RedHat_SQL_Injection.py is a very dangerous tool, only use with permission for testing purposes!
 
 ```bash
 RedHat_SQL_injection.py 
