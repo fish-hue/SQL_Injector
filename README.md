@@ -37,7 +37,7 @@ python3 WhiteHat_SQL_injection.py
 - Red Hat for Pentesting: **WARNING: RedHat_SQL_Injection.py is a very dangerous tool, only use with permission for testing purposes!
 
 ```bash
-RedHat_SQL_injection.py 
+python3 RedHat_SQL_injection.py 
 ```
 
 ### 2. Provide User Input:
