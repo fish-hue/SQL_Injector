@@ -28,7 +28,7 @@ Ensure that you have Python 3.x or later installed.
 ### 1. Run the Script:
 Once the prerequisites are set up, you can run the script with the following command:
 
-- ** White Hat Ethical Testing:
+- White Hat Ethical Testing:
 
 ```bash
 python3 WhiteHat_SQL_injection.py
